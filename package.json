@@ -1,0 +1,32 @@
+{
+  "name": "express_rest_server",
+  "version": "0.1.0",
+  "description": "For this assignment you will be building a simple REST API + MONGOOSE",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-jshint": "^0.11.2",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-simple-mocha": "^0.4.0",
+    "mocha": "^2.2.4"
+  },
+  "scripts": {
+    "test": "./node_modules/grunt-cli/bin/grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/truyennguyen/REST_API_MONGOOSE.git"
+  },
+  "author": "truyennguyen, raineroviir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/truyennguyen/REST_API_MONGOOSE"
+  },
+  "homepage": "https://github.com/truyennguyen/REST_API_MONGOOSE"
+}
